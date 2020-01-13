@@ -10,12 +10,12 @@ MySQLを環境変数から初期化する。
 
 ## 環境変数
 
-|    環境変数    |                  説明                  |  初期値   |
-| :------------: | :------------------------------------: | :-------: |
-| MYSQL_DB_HOST  |         SQL server IP address          | localhost |
-|   MYSQL_PORT   |         SQL server port number         |   3306    |
-|   MYSQL_USER   |          User name to use SQL          |   root    |
-| MYSQL_PASSWORD |   Password of the user who uses SQL    |           |
-|    MYSQL_DB    | The name of the database to connect to |           |
-| MYSQL_PROTOCOL |   SQL server communication protocol    |    tcp    |
-|  MYSQL_DBARGS  |     Sorry, I can't understand it.      |           |
+|    環境変数    |               説明               |  初期値   |
+| :------------: | :------------------------------: | :-------: |
+| MYSQL_DB_HOST  |      SQLサーバのIPアドレス       | localhost |
+|   MYSQL_PORT   |      SQLサーバのポート番号       |   3306    |
+|   MYSQL_USER   |      SQLを使用するユーザ名       |   root    |
+| MYSQL_PASSWORD | SQLを使用するユーザのパスワード  |           |
+|    MYSQL_DB    |      接続するデータベース名      |           |
+| MYSQL_PROTOCOL |    SQLサーバの通信プロトコル     |    tcp    |
+|  MYSQL_DBARGS  | データベースへ接続する際のクエリ |           |

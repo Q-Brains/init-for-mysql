@@ -18,4 +18,4 @@ Actually, I ~~stole~~ respected code from [the article (written in Japanese)](ht
 |    MYSQL_PASSWORD     |   Password of the user who uses SQL    |               |
 |       MYSQL_DB        | The name of the database to connect to |               |
 |    MYSQL_PROTOCOL     |   SQL server communication protocol    |      tcp      |
-|     MYSQL_DBARGS      |     Sorry, I can't understand it.      |               |
+|     MYSQL_DBARGS      |      Query to connect to database      |               |
